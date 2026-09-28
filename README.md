@@ -1,4 +1,4 @@
-# Detoxifying Dialogue Summaries with FLAN-T5
+# Detoxifying Dialogue Summaries with SAGE-T5
 
 This project explores how reinforcement learning can help a language model generate **less toxic dialogue summaries** while keeping the summaries relevant to the original conversation.
 
